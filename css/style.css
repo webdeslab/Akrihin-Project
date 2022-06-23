@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5 ,h6 {
 }
 
 .main {
-    background: url('/img/bg.png')0 0 no-repeat;
+    background: url('../img/bg.png')0 0 no-repeat;
     padding-top: 62px;
     padding-bottom: 30px;
 }
@@ -255,7 +255,7 @@ h1, h2, h3, h4, h5 ,h6 {
 /* about styles */
 
 .about {
-    background: url('/img/bgabout.png') 0 0 no-repeat;
+    background: url('img/bgabout.png') 0 0 no-repeat;
     padding-top: 70px;
 }
 
@@ -381,7 +381,7 @@ h1, h2, h3, h4, h5 ,h6 {
 }
 
 .not-found {
-    background: url('/img/bgabout.png') 0 0 no-repeat;
+    background: url('img/bgabout.png') 0 0 no-repeat;
     padding-top: 70px;
 }
 
